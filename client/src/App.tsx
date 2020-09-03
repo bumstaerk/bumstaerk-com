@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
+import Test from './components/Test';
 
 function App() {
   return (
     <div className="App">
-      bumstaerk-com
+      <h1>bumstaerk-com</h1>
+      <Test />
     </div>
   );
 }
