@@ -1,3 +1,4 @@
+// TODO: need to keep this file, because otherwise vim plugin won't work
 import type { Config } from "tailwindcss";
 
 export default {
